@@ -1,0 +1,11 @@
+h1 {
+    font-weight: bold;
+    color: blue;
+}
+
+#premium {
+    align-items: center;
+    color: blue;
+    margin: 0 auto;
+}
+
