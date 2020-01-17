@@ -3,6 +3,10 @@ h1 {
     color: blue;
 }
 
+body {
+    background-image: url('https://media.giphy.com/media/xP1w2aLHpnwWY/giphy.gif');
+}
+
 #premium {
     align-items: center;
     color: blue;
